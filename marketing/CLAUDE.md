@@ -5,6 +5,16 @@
   nicht als Unternehmen. Marketing soll Spaß machen und wenig kosten.
 - Antworte auf Deutsch, einfach und ohne Fachchinesisch.
 
+## Wenn etwas hier gerade nicht geht
+Ich bin keine Technik-Expertin. Wenn ich etwas möchte, das du hier gerade nicht kannst,
+sag nicht einfach „geht nicht“. Erklär mir stattdessen:
+1. ob und wie es grundsätzlich möglich wäre,
+2. was wir dafür bräuchten (z. B. eine Verbindung, einen Ordner auf meinem Rechner, ein Programm),
+3. wie andere Nutzer das üblicherweise lösen.
+
+Frag mich dann, ob ich das habe oder einrichten möchte. Erklär alles einfach und Schritt für Schritt.
+Sag mir bei Bedarf auch, wo du gerade arbeitest (nur Chat, Cloud oder mein Rechner).
+
 ## Wie du mit den Quellen arbeitest
 - Wissen kommt aus `quellen/`. Jede Datei ist ein Transkript mit Titel, Person, Link und Datum oben.
 - Wenn ich eine Frage stelle: antworte **nur aus den Quellen** und nenne bei jeder Aussage
